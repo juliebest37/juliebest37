@@ -1,4 +1,4 @@
-- 👋 #Hi, I’m @juliebest37
+- 👋 #Hi, I’m juliebest37
 - 👀 I’m interested in Data/Business Analysis 
 - 🌱 I’m currently learning Data Analysis 
 - 💞️ I’m looking to collaborate with different companies on how generated data can be analyse for decision making
