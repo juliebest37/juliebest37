@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @juliebest37
-- 👀 I’m interested in data/business analysis 
-- 🌱 I’m currently learning data analysis 
-- 💞️ I’m looking to collaborate on how generated data can be analyse for decision making
-- 📫 How to reach me https://www.linkedin.com/in/juliana-appah-/
+- 👋 #Hi, I’m @juliebest37
+- 👀 I’m interested in Data/Business Analysis 
+- 🌱 I’m currently learning Data Analysis 
+- 💞️ I’m looking to collaborate with different companies on how generated data can be analyse for decision making
+- 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/juliana-appah-/)
 - 😄 Pronouns: I AM SHE
 - ⚡ Fun fact: Great thinker
 
